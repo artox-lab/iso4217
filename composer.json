@@ -42,6 +42,9 @@
             "Payum\\ISO4217\\Tests\\": "."
         }
     },
+    "replace": {
+        "payum/iso4217": "self.version"  
+    },
     "extra": {
         "branch-alias": {
             "dev-master": "1.0.x-dev"

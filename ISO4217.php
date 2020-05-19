@@ -277,13 +277,6 @@ class ISO4217
             'country' => 'BY',
         ),
         array(
-            'name' => 'Belarussian Ruble',
-            'alpha3' => 'BYR',
-            'numeric' => '974',
-            'exp' => 0,
-            'country' => 'BY',
-        ),
-        array(
             'name' => 'Belize Dollar',
             'alpha3' => 'BZD',
             'numeric' => '084',

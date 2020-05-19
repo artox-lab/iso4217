@@ -77,6 +77,7 @@ The following codes have been intentionally left out:
 * XUA ADB Unit of Account (African Development Bank)
 * XXX No currency
 * ZWD Zimbabwe dollar
+* BYR Belarusian ruble
 
 ## Developed by Forma-Pro
 

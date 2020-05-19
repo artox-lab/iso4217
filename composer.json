@@ -1,5 +1,5 @@
 {
-    "name": "payum/iso4217",
+    "name": "artox-lab/iso4217",
     "description": "ISO 4217 PHP Library",
     "keywords": ["ISO 4217", "ISO", "4217", "currencies", "library"],
     "homepage": "https://payum.forma-pro.com/",
@@ -46,5 +46,8 @@
         "branch-alias": {
             "dev-master": "1.0.x-dev"
         }
+    },
+    "replace": {
+        "payum/iso4217": "^1.0"
     }
 }
